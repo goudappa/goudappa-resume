@@ -1,0 +1,58 @@
+body{
+	background-color:#f9f9f9;
+	margin:0px;
+}
+.name{
+	font-family: 'Roboto', sans-serif;
+	margin-bottom:0px;
+	font-weight:300;
+	font-size:40px;
+}
+.designation{
+	font-family: 'Roboto light', sans-serif;
+	font-size:15px;
+	margin-top:5px;
+}
+.line{
+	opacity:0.3;
+}
+.headline{
+	font-family: 'Roboto', sans-serif;
+	font-weight:normal;
+	color:#727272;
+}
+.sub{
+	font-family: 'Roboto', sans-serif;
+	font-weight:lighter;
+}
+.text-highlight{
+	color:#7C4DFF;
+}
+
+/* Containers */
+.container-main{
+	width:100%;
+	padding-top:30px;
+	color:#fff;
+	background-color:#7C4DFF;
+}
+.container-sub{
+	padding-top:10px;
+	padding-left:40px;
+}
+.wrapper{
+	padding-top:20px;
+	padding-left:40px;
+	padding-bottom:20px;
+}
+footer{
+	background-color:#7C4DFF;
+	color:#fff;
+	margin-top:30px;
+}
+.container-footer{
+	width:80%;
+	padding-top:10px;
+	padding-left:40px;
+	padding-bottom:10px;
+}
